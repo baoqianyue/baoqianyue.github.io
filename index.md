@@ -4,19 +4,19 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at Xidian University and advised by Prof. [Fang Liu](https://faculty.xidian.edu.cn/LF8/zh_CN/index.htm) and Prof. [Licheng Jiao](https://faculty.xidian.edu.cn/JLC/zh_CN/index.htm). 
 
-## Research Interests
+## Research Interests 
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+My current research lies in Multi-Modality Understanding and Video Analysis. My research areas involve:
+
+- **Video Analysis:** video anomaly detection, action recognition, video captioning
+
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Mar. 2024]** Our paper about causal inference is accepted by IEEE Transactions on Multimedia (TMM), Congrats to Yang!
+- **[Jul. 2022]** My first paper about video anomaly detection is accepted by ACM MM 2022. 
 
 {% include_relative _includes/publications.md %}
 
