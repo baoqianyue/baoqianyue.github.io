@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at Xidian University and advised by Prof. [Fang Liu](https://faculty.xidian.edu.cn/LF8/zh_CN/index.htm) and Prof. [Licheng Jiao](https://faculty.xidian.edu.cn/JLC/zh_CN/index.htm). 
+I am a Ph.D. student at [Key Laboratory of Intelligent Perception and Image Understanding of Ministry of Education (IPIU)](https://ipiu.xidian.edu.cn/), [School of Artificial Intelligence](https://sai.xidian.edu.cn/), [Xidian University](https://www.xidian.edu.cn/) and advised by Prof. [Fang Liu](https://faculty.xidian.edu.cn/LF8/zh_CN/index.htm) and Prof. [Licheng Jiao](https://faculty.xidian.edu.cn/JLC/zh_CN/index.htm). 
 
 ## Research Interests 
 
