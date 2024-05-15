@@ -7,12 +7,32 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/MEE.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">TCSVT</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Multi-grained Gradual Inference Model for Multimedia Event Extraction</a></div>
+    <div class="author">Yang Liu, Fang Liu, Licheng Jiao, <strong>Qianyue Bao</strong>, Long Sun, Shuo Li, Lingling Li, Xu Liu</div>
+    <div class="periodical"><em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024.</em></div>
+    <div class="links">
+      <!-- <a href="https://arxiv.org/pdf/2403.03715.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/joeyz0z/MeaCap" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/KHCIN.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">TMM</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">A Knowledge-based Hierarchical Causal Inference Network for Video Action Recognition</a></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/10496835/">A Knowledge-based Hierarchical Causal Inference Network for Video Action Recognition</a></div>
     <div class="author">Yang Liu, Fang Liu, Licheng Jiao, <strong>Qianyue Bao</strong>, Lingling Li, Yuwei Guo, Puhua Chen</div>
     <div class="periodical"><em>IEEE Transactions on Multimedia (TMM), 2024.</em></div>
     <div class="links">

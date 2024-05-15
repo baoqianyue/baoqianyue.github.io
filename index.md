@@ -10,11 +10,13 @@ I am a Ph.D. student at [Key Laboratory of Intelligent Perception and Image Unde
 
 My current research lies in Multi-Modality Understanding and Video Analysis. My research areas involve:
 
-- **Video Analysis:** video anomaly detection, action recognition, video captioning
+- **Video Analysis:** video anomaly detection, action recognition, video captioning     
+- **Multimodal Analysis:** multimedia event extraction   
 
 
 ## News
 
+- **[May. 2024]** Our paper about multimedia event extraction is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Congrats to Yang!
 - **[Mar. 2024]** Our paper about causal inference is accepted by IEEE Transactions on Multimedia (TMM), Congrats to Yang!
 - **[Jul. 2022]** My first paper about video anomaly detection is accepted by ACM MM 2022. 
 
