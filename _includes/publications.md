@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">Multi-grained Gradual Inference Model for Multimedia Event Extraction</a></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10533232">Multi-grained Gradual Inference Model for Multimedia Event Extraction</a></div>
     <div class="author">Yang Liu, Fang Liu, Licheng Jiao, <strong>Qianyue Bao</strong>, Long Sun, Shuo Li, Lingling Li, Xu Liu</div>
     <div class="periodical"><em>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024.</em></div>
     <div class="links">
