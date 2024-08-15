@@ -14,4 +14,4 @@
 <ul style="margin:0 0 20px;">
   <li><a href=""><autocolor>IEEE Transactions on Image Processing (TIP)</autocolor></a></li>
   <!-- <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li> -->
-</ul> -->
+</ul>
