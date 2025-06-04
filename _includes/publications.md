@@ -3,6 +3,50 @@
 <div class="publications">
 <ol class="bibliography">
 
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/TNNLS25_CoS.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">TNNLS</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Chain-of-Situation Aware Progressive Inference Learning</a></div>
+    <div class="author">Yang Liu, Fang Liu, Licheng Jiao, <strong>Qianyue Bao</strong>, Shuo Li, Lingling Li, Xu Liu, Puhua Chen, Wenping Ma</div>
+    <div class="periodical"><em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2025.</em></div>
+    <div class="links">
+      <!-- <a href="https://arxiv.org/pdf/2403.03715.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/joeyz0z/MeaCap" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/TMM25_CVAC.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">TMM</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Anomaly-Led Prompting Learning Caption Generating Model and Benchmark</a></div>
+    <div class="author"><strong>Qianyue Bao</strong>, Fang Liu, Licheng Jiao, Yang Liu, Shuo Li, Lingling Li, Xu Liu, Xinyi Wang, Baoliang Chen</div>
+    <div class="periodical"><em>IEEE Transactions on Multimedia (TMM), 2025.</em></div>
+    <div class="links">
+      <!-- <a href="https://arxiv.org/pdf/2403.03715.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/joeyz0z/MeaCap" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+
 <li>
 <div class="pub-row">
 

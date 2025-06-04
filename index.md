@@ -18,6 +18,7 @@ My current research lies in Multi-Modality Understanding and Video Analysis. My 
 
 ## News
 
+- **[Jun. 2025]** Our paper about Grounded Situation Recognition is accepted by IEEE Transactions on Neural Networks and Learning Systems (TNNLS), Congrats to Yang!
 - **[Feb. 2025]** My paper about Video Anomaly Captioning is accepted by IEEE Transactions on Multimedia (TMM)!
 - **[Feb. 2025]** Our paper about Compositional Action Recognition is accepted by Pattern Recognition (PR), Congrats to Yang!
 - **[May. 2024]** Our paper about Multimedia Event Extraction is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), Congrats to Yang!
