@@ -15,4 +15,5 @@
   <li><a href=""><autocolor>IEEE Transactions on Image Processing (TIP)</autocolor></a></li>
   <li><a href=""><autocolor>Pattern Recognition (PR)</autocolor></a></li>
   <li><a href=""><autocolor>Information Fusion (IF)</autocolor></a></li>
+   <li><a href=""><autocolor>Knowledge-Based Systems (KBS)</autocolor></a></li>
 </ul>

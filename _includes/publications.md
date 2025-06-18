@@ -8,12 +8,32 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/TPAMI25_SRACap.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">TPAMI</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Visual-Language Scene-Relation-Aware Zero-Shot Captioner</a></div>
+    <div class="author"><strong>Qianyue Bao</strong>, Fang Liu, Licheng Jiao, Yang Liu, Shuo Li, Lingling Li, Xu Liu, Puhua Chen</div>
+    <div class="periodical"><em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025.</em></div>
+    <div class="links">
+      <!-- <a href="https://arxiv.org/pdf/2403.03715.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
+      <!-- <a href="https://github.com/baoqianyue/SRACap" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/TNNLS25_CoS.jpg" class="teaser img-fluid z-depth-1">
     <abbr class="badge">TNNLS</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">Chain-of-Situation Aware Progressive Inference Learning</a></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/11031239">Chain-of-Situation Aware Progressive Inference Learning</a></div>
     <div class="author">Yang Liu, Fang Liu, Licheng Jiao, <strong>Qianyue Bao</strong>, Shuo Li, Lingling Li, Xu Liu, Puhua Chen, Wenping Ma</div>
     <div class="periodical"><em>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2025.</em></div>
     <div class="links">
