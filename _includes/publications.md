@@ -13,7 +13,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">Visual-Language Scene-Relation-Aware Zero-Shot Captioner</a></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/11045221">Visual-Language Scene-Relation-Aware Zero-Shot Captioner</a></div>
     <div class="author"><strong>Qianyue Bao</strong>, Fang Liu, Licheng Jiao, Yang Liu, Shuo Li, Lingling Li, Xu Liu, Puhua Chen</div>
     <div class="periodical"><em>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2025.</em></div>
     <div class="links">
